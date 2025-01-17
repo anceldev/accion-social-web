@@ -34,4 +34,15 @@ main
       - contenido
       - enlace
   - footer
+    -Logo
+    -logo de redes
+      -enlace de redes
+    -cuadro de texto
+      -sobre
+        -enlace
+      -contacto
+        -paginas enlazadas
+        -telefono
+        -email
+    -eslogan (?)
   
