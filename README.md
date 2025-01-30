@@ -112,6 +112,40 @@ main-media+agenda
       - titulo h1
       - texto
       - iconos redes+titulo h2(enlace)
+    - sesion 6
+      - calendario(agenda)(align left)
+      - titulo h2
+      - texto
+      - boton dinamico enlace
+    - sesion 7
+      - cuadro
+      - titulo h1
+      - img empresas (colaboraciones, alianzas...)
+  - footer
+    ...
+main-contacto
+  - navegador
+    - sobre
+    - actividades
+    - agenda
+    - media
+    - contacto
+    ...
+  - header
+    - sesion 1
+      - titulo h1
+      - texto
+      - enlaces páginas web
+      - enlaces redes sociales + iconos
+      - enlaces contacto iglesia + boton dinamico
+      - apartado email (boton dinamico)
+  - footer 
+  ...
+  
+
+
+
+
       
 
 
